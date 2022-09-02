@@ -297,6 +297,10 @@ nav li {
     overflow-x: hidden;
   }
   
+  img.lady{
+  margin-left:16%;
+  }
+  
   .image-group{
   max-width: 80%;
     margin-left: 10%;
@@ -304,7 +308,7 @@ nav li {
   }
 
   .right-container{
-    margin-left: 13%;
+    margin-left: 13% !important;
     margin-right: 10%;
   }
   
