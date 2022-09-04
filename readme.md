@@ -1,5 +1,9 @@
 # This a home page for a Dancing school
 
+## Deployed Link
+
+[Project Link](https://phani-sai-project-15.netlify.app/)
+
 ## Preview:
 
 ![Desktop view](./desktop.png)
@@ -15,5 +19,5 @@
 
 ## Time taken:
 
-- This project took me 3 hours to build from scratch and for making responsive it took me extra 30min.
+- This project took me 3 hours to build from scratch and for making responsive it took me extra 40min.
 
