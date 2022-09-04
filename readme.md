@@ -1,4 +1,4 @@
-# This a home page for a Dancing school
+# This is a home page for a Dancing school
 
 ## Deployed Link
 
